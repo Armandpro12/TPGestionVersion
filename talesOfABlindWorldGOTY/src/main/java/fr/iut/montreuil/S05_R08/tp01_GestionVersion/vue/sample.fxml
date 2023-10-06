@@ -1211,7 +1211,7 @@
                         </ImageView>
                         <VBox prefHeight="177.0" prefWidth="618.0">
                            <children>
-                              <Label alignment="CENTER" prefHeight="105.0" prefWidth="886.0" text="Tales of a Blind World" textFill="#d38b0d">
+                              <Label alignment="CENTER" prefHeight="105.0" prefWidth="886.0" text="Sand et Honneur" textFill="#d38b0d">
                                  <font>
                                     <Font size="43.0" />
                                  </font>
@@ -1219,7 +1219,7 @@
                                     <Insets left="10.0" top="10.0" />
                                  </VBox.margin>
                               </Label>
-                              <Label alignment="CENTER" prefHeight="55.0" prefWidth="896.0" text="&amp; Le livre de Momoku" textFill="#d38b0d">
+                              <Label alignment="CENTER" prefHeight="55.0" prefWidth="896.0" text="&amp; La quête du Graal" textFill="#d38b0d">
                                  <font>
                                     <Font size="22.0" />
                                  </font>
