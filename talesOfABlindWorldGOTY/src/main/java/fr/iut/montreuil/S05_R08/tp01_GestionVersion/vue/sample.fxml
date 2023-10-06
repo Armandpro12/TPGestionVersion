@@ -1227,7 +1227,7 @@
                                     <Insets top="-40.0" />
                                  </VBox.margin>
                               </Label>
-                              <Label alignment="CENTER" prefHeight="43.0" prefWidth="898.0" text="A creation of DAS Company - Maven Edition Hacked By J.Marcinkowski" textFill="#c39d60">
+                              <Label alignment="CENTER" prefHeight="43.0" prefWidth="898.0" text="A creation of Armand projects - Maven Edition By A.CHAPLAIN-DURET" textFill="#c39d60">
                                  <font>
                                     <Font size="17.0" />
                                  </font>
