@@ -22,7 +22,7 @@ public class Joueur {
     private Console console;
     private IntegerProperty xProperty = new SimpleIntegerProperty(0);
     private IntegerProperty yProperty = new SimpleIntegerProperty(0);
-    private static int vitesseDeDeplacement = 0.02 ;
+    private static double vitesseDeDeplacement = 0.02 ;
     private StringProperty direction = new SimpleStringProperty();
     private Terrain zone;
     private Inventaire inventaire;
@@ -155,7 +155,7 @@ public class Joueur {
     }
 
     public void moveLeft () {
-        this.xProperty.setValue(this.xProperty.getValue()-vitesseDeDeplacement);
+        this.xProperty.setValue(this.xProperty.getValue()-vitesseDeDeplacement * 0.01);
         direction.setValue("left");
     }
 
