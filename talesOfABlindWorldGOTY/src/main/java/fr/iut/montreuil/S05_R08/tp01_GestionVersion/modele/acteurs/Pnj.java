@@ -131,6 +131,9 @@ public class Pnj extends Acteur {
                 lines.add("Dur dur la vie de panneau...");
                 lines.add("Le 'Une pièce'... Il existe!");
                 break;
+            case "panneauFremium":
+                lines.add("Pour changer de niveau vous devrez soit faire 5000 pas soit consommer une pub");
+                break;
             case "épouvantail":
                 lines.add("*Vous frappez l'épouvantail*\nPourquoi faites vous cela ?");
                 lines.add("*Vous donnez une pièce à l'épouvantail*\nIl vous l'a rend de suite");
