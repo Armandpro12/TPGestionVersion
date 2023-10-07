@@ -155,7 +155,7 @@ public class Joueur {
     }
 
     public void moveLeft () {
-        this.xProperty.setValue(this.xProperty.getValue()-vitesseDeDeplacement * 0.01);
+        this.xProperty.setValue(this.xProperty.getValue()-vitesseDeDeplacement);
         direction.setValue("left");
     }
 
